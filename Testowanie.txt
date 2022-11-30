@@ -1,0 +1,2 @@
+To jest plik do testowania, nie ma w nim nic wartościowego.
+
