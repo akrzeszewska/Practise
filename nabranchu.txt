@@ -1,0 +1,1 @@
+plik powiniein byc widoczny tylko na branchu, nie powinnismy go widziec na mainie
