@@ -1,1 +1,1 @@
-wartosc pliku ctxt
+wersja 1.0 wartosc pliku ctxt
