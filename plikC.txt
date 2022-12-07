@@ -1,2 +1,3 @@
-
-UDAŁO SIĘ! mam konflikt, i teraz go rozwiązuję. W obecnym plikuC zostawiam z wersji na branchu main aaaaaaaaaaaaaaaaaaaaaaaaa i z wersji na branchu testing1 wersja 1.0 wartosc pliku
+Wersja 2.0 tego pliku c
+UDAŁO SIs! mam konflikt, i teraz go rozwiązuję. W obecnym plikuC zostawiam z wersji na branchu main aaaaaaaaaaaaaaaaaaaaaaaaa i z wersji na branchu testing1 wersja 1.0 wartosc pliku
+wersja 1.0 wartosc pliku ctxt
