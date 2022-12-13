@@ -1,3 +1,8 @@
-Zadanie9 z konfliktami
+1: Rozwiazanie konfliktu z zadania9.
+2: Zadanie6 było kiedyś zadanie6.
 
-Zadanie6 było kiedyś.
+1:Zadanie9 z konfliktami
+2:Zadanie6 było kiedyś.
+
+1:Inna modyfikacja tego pliku niż poprzednio w celu wywołania konfliktu, zadanie9.
+2:Kiedys zadanie6.
