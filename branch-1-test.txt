@@ -1,1 +1,2 @@
-Zadanie6.
+Inna modyfikacja tego pliku niż poprzednio w celu wywołania konfliktu, zadanie9.
+Kiedys zadanie6.
